@@ -5,12 +5,12 @@
   padding: 5%;
   }@media(max-width:1000px){
     .post-container{
-      width:47%;
+      width:47% !important;
     }
   }
   @media (max-width:600px) {
     .post-container{
-      width:100;
+      width:100 !important;
     }
   }
 .post-container{
