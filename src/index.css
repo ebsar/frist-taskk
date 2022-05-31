@@ -2,7 +2,18 @@
   flex-wrap: wrap;
   justify-content: space-between;
   display: flex;
-}.post-container{
+  padding: 5%;
+  }@media(max-width:1000px){
+    .post-container{
+      width:47%;
+    }
+  }
+  @media (max-width:600px) {
+    .post-container{
+      width:100;
+    }
+  }
+.post-container{
   width: 28%;
   overflow:hidden;
   display: flex;
