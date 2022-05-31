@@ -10,7 +10,7 @@
   }
   @media (max-width:600px) {
     .post-container{
-      width:100 !important;
+      width:100% !important;
     }
   }
 .post-container{
